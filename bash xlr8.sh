@@ -191,13 +191,13 @@ echo -e '''
 ''' | pv -qL 300
 sleep 1.2
 echo -e "                                  This is\e[1;0m AM| SK DEVIL TECH | SUFIYAN" | pv -qL 150
-echo "                                    aka anubhavanonymous !" | pv -qL 150
+echo "                                   Sufiyan khan !" | pv -qL 150
 echo ""
 echo -e "     $GREEN  Ethical Hacker$WHITE |$GREEN CyberSec Enthusiast$WHITE |$GREEN Programmer" | pv -qL 10
 echo ""
 printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows\e[0m\n" | pv -qL 12
 echo ""
-echo "       $MAGENTA          My social handles are below !!" | pv -qL 10
+echo "       $MAGENTA          My Nams Sufiyan khan!!" | pv -qL 10
 echo ""
 printf "\e[0m\e[92m          learn ethical hacking \e[0m\e[91m     :    \e[0m\e[96Do you want hacking course then contactm\e[0m\n" | pv -qL 50
 echo ""
